@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Swift, AWS,..**
 
-- 💬 Ask me about **Swift**
+- 📫 **I am a college student at Posts and Telecommunications Institute of Technology**
 
-- 📫 How to reach me **atdevv2311@gmail.com**
+- 💬 How to reach me **atdevv2311@gmail.com**
 
-- ⚡ Fun fact **Normal person hehe...:>>**
+- ⚡**Normal person hehe...:>>**
 
 <h3 align="left">Connect with me:</h3>
 
