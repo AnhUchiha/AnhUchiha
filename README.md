@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Tuan Anh</h1>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Tuan Anh</h1>
 
 ###
 
-<h3 align="center">A IOS dev from Viet Nam</h3>
+<h3 align="left">A IOS dev from Viet Nam</h3>
 
-<div align="center">
+<div align="left">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anhuchiha&label=Profile%20views&color=0e75b6&style=flat" alt="anhuchiha" /> </p>
