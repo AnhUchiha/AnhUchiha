@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Swift, AWS,..**
 
-- 📫 **I am a college student at Posts and Telecommunications Institute of Technology**
+- 📫  I'm a college student at **IPosts and Telecommunications Institute of Technology**
 
 - 💬 Contact me: **atdevv2311@gmail.com**
 
