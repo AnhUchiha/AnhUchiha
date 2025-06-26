@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A IOS dev from Viet Nam</h3>
+<h3 align="left">I'm IOS dev from Viet Nam :>> </h3>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
