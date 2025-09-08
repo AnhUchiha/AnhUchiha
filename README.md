@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning **coding chill...**
 
-- 📫  I'm a college student at **IPosts and Telecommunications Institute of Technology**
-
 - 💬 Contact me: **atdevv2311@gmail.com**
 
 - ⚡**Normal person hehe...:>>**
