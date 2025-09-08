@@ -5,7 +5,11 @@
 <h3 align="left">I'm from Viet Nam :>> </h3>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://your-mobile-optimized-image.gif">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajF3aWFiOHo2aHVuY3RyeWpsdmxld2t1Yjg0ZG1qeWRhMTE4amZ3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" 
+         width="50%" style="max-width: 600px;" />
+  </picture>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tx4nh&label=Profile%20views&color=0e75b6&style=flat" alt="tx4nh" /> </p>
 
