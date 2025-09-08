@@ -4,24 +4,28 @@
 
 <h3 align="left">I'm from Viet Nam :>> </h3>
 
-<div align="center">
+<div align="left">
   <picture>
     <source media="(max-width: 600px)" srcset="https://your-mobile-optimized-image.gif">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajF3aWFiOHo2aHVuY3RyeWpsdmxld2t1Yjg0ZG1qeWRhMTE4amZ3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" 
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F5YWxhNXYyY3JvdHR6ZTBlazE1ejhkempwaHAwMnRtYWhkb3IzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/97SpzMskU0MagLdwgN/giphy.gif"
          width="50%" style="max-width: 600px;" />
   </picture>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tx4nh&label=Profile%20views&color=0e75b6&style=flat" alt="tx4nh" /> </p>
 
 
-
-- 🌱 I’m currently learning **coding chill...**
+<div align="right>
+  - 🌱 I’m currently learning **coding chill...**
 
 - 💬 Contact me: **atdevv2311@gmail.com**
 
 - ⚡**Normal person hehe...:>>**
+  </div>
 
 <h3 align="left">Connect with me:</h3>
+
+###
+
 
 ###
 
